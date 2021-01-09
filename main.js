@@ -123,9 +123,9 @@ function padesu()
 
 
 let pic= new Array(
-    "img/janken_pa.png",
-    "img/janken_choki.png",
-    "img/janken_gu.png",
+    "janken_pa.png",
+    "janken_choki.png",
+    "janken_gu.png",
     
 );
 
