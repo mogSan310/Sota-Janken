@@ -1,0 +1,21 @@
+.btn{
+    padding:25px;
+    margin-top:600px;
+}
+
+.janken {
+    float: left;
+    display:block;
+    margin-top: 250px;
+    height: 120px;
+    width: 100px;
+}
+
+.jankenEnemy{
+    display:block;
+    position: absolute;
+    top:0px;
+    height:250px;
+    width:230px;
+    margin-left:50px;
+}
